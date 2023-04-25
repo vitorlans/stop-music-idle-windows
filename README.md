@@ -1,8 +1,10 @@
 # IdleStopSound
 
+IdleStopSound is a app that help Windows go to sleep mode
+
+
 <img src='./screenshots/1.png' />
 
-IdleStopSound is a app that help Windows go to sleep mode
 
 Default: trigger every 20seg to check if user are idle. if idle time is grand than 2 minutes. 
 it automatically stop sound and it will allow windows go to sleep process
